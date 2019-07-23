@@ -1,0 +1,25 @@
+{
+"Estudiantes":[
+{"id" : 1,"Nombre" : "Bryan", "Apellido" : "Romero", "Celular" : "0983558532", "Domicilio" : "Biblian"}, 
+{"id" : 2,"Nombre" : "Agustin", "Apellido" : "Ortega", "Celular" : "0975558532", "Domicilio" : "Charasol"}, 
+{"id" : 3,"Nombre" : "Jeferson", "Apellido" : "Trelles", "Celular" : "0983569752", "Domicilio" : "Paute"}, 
+{"id" : 4,"Nombre" : "Karol", "Apellido" : "Peñafiel", "Celular" : "0983153847", "Domicilio" : "Azogues"}, 
+{"id" : 5,"Nombre" : "Guadalupe", "Apellido" : "Atudillo", "Celular" : "0983963852", "Domicilio" : "Azogues"}, 
+{"id" : 6,"Nombre" : "Freddy", "Apellido" : "Herrera", "Celular" : "0983963456", "Domicilio" : "Uchupucun"}, 
+{"id" : 7,"Nombre" : "Geovanny", "Apellido" : "Herrera", "Celular" : "0983147852", "Domicilio" : "Uchupucun"}, 
+{"id" : 8,"Nombre" : "Estela", "Apellido" : "Lata", "Celular" : "09839785320", "Domicilio" : "Sumbaguayco"}, 
+{"id" : 9,"Nombre" : "Jaime", "Apellido" : "Sumba", "Celular" : "0988532147", "Domicilio" : "Descanso"}, 
+{"id" : 10,"Nombre" : "Lorena", "Apellido" : "Dutan", "Celular" : "0986850000", "Domicilio" : "Chuquipata"}, 
+{"id" : 11,"Nombre" : "Mercy", "Apellido" : "Sumba", "Celular" : "0989647893", "Domicilio" : "Uchupucun"}, 
+{"id" : 12,"Nombre" : "Jonatan", "Apellido" : "Peralta", "Celular" : "0981287935", "Domicilio" : "Azogues"}, 
+{"id" : 13,"Nombre" : "Eric", "Apellido" : "Peralta", "Celular" : "0989658742", "Domicilio" : "Uchupucun"},
+]
+" Profesores " : [
+{"id" : 1,"Nombre" : "Alexandra", "Apellido" : "Molina", "Celular" : "0978036903", "Domicilio" : "Cuenca"}, 
+{"id" : 2,"Nombre" : "Juan", "Apellido" : "Araujo", "Celular" : "0989658744", "Domicilio" : "Cuenca"}, 
+{"id" : 3,"Nombre" : "Cristina", "Apellido" : "Cuenca", "Celular" : "0972589634", "Domicilio" : "Azogues"}, 
+{"id" : 4,"Nombre" : "Adrian", "Apellido" : "Guzman", "Celular" : "0996384752", "Domicilio" : "Cuenca"}, 
+{"id" : 5,"Nombre" : "Javier", "Apellido" : "Romero", "Celular" : "0985367411", "Domicilio" : "Cuenca"}, 
+{"id" : 6,"Nombre" : "Mauricio", "Apellido" : "Palomino", "Celular" : "0978564723", "Domicilio" : "Azogues"},
+]} 
+ 
